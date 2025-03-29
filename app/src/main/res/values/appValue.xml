@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings do projeto-->
+    <string name="title">Calculadora IMC</string>
+    <string name="sair">Sair</string>
+    <string name="btnSet">Calcular IMC</string>
+    <string name="btnReset">Limpar</string>
+    <string name="voltar">Voltar</string>
+
+    
+    <!--Cores do projeto-->
+    <color name="background">#FFFFFF</color>
+    <color name="destaques">#006341</color>
+    <color name="button">#00A859</color>
+    <color name="textosSecundarios">#4D4D4D</color>
+    <color name="bordasEDivisorias">#B3B3B3</color>
+    <color name="textosPrincipais">#FFFFFF</color>
+
+    <!-- Hints -->
+    <string name="campoNome">Insira seu nome</string>
+    <string name="campoAltura">m</string>
+    <string name="campoPeso">kg</string>
+
+    <!-- Frases de efeito -->
+    <string name="abaixoDoPeso">Seu corpo merece cuidado e nutrição. Cada passo em direção à recuperação é uma vitória.
+Você não está sozinho-com paciência e apoio, é possível recuperar sua energia e bem-estar.
+Acredite na sua força!</string>
+    
+</resources>
